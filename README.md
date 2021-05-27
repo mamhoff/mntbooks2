@@ -7,7 +7,7 @@ MNTBooks is a minimalist ERP (enterprise resource planning) system for smol manu
 ## Getting Started
 
 ```
-sudo apt install libsqlite3-dev libpq-dev default-libmysqlclient-dev
+sudo apt install libsqlite3-dev libpq-dev default-libmysqlclient-dev cargo
 
 cp mntconfig.toml.default mntconfig.toml
 
